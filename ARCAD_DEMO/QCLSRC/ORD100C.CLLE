@@ -8,4 +8,5 @@
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              DSPMSG     MSGQ(QSYSOPR)
              wrksplf
+             dspmsg
              CRTORD     CUID(&CUID)
