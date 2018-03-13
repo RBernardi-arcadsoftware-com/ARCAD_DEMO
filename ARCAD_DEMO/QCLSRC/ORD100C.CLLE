@@ -9,4 +9,5 @@
              DSPMSG     MSGQ(QSYSOPR)
              wrksplf
              dspmsg
+             wrksplf
              CRTORD     CUID(&CUID)
