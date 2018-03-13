@@ -6,4 +6,8 @@
                           TOLIB(QTEMP) NEWOBJ(DETORD) CST(*NO) +
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
+             DSPMSG     MSGQ(QSYSOPR)
+             wrksplf
+             dspmsg
+             wrksplf
              CRTORD     CUID(&CUID)
