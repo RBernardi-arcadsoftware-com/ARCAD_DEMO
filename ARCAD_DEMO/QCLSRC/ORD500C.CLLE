@@ -4,8 +4,10 @@
              DCL        VAR(&PATH) TYPE(*CHAR) LEN(100)
              CHGVAR     VAR(&FILENAME) VALUE('Custord' *CAT &ORD +
                           *TCAT '.pdf')
- 
+
              CVTSPLPDF  FROMFILE(ORD500O) TOSTMF(&FILENAME) +
                           TODIR(&PATH) SPLNBR(*LAST) +
-                          STMFOPT(*REPLACE) PAGESIZE(*A4 *PORTRAIT) +
-                          FONT(*COURIER 11) BOOKMARK(*NONE)
+                          STMFOPT(*REPLACE) PAGESIZE(*A4 +
+                          *PORTRAIT) FONT(*COURIER 11) +
+                          BOOKMARK(*NONE)
+             wrksplf
