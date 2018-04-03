@@ -9,3 +9,4 @@
              dspmsg
              CRTORD     CUID(&CUID)
              wrksplf
+             dspmsg
