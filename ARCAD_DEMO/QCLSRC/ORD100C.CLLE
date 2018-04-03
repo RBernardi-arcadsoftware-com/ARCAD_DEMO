@@ -7,3 +7,4 @@
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CRTORD     CUID(&CUID)
+             wrksplf
