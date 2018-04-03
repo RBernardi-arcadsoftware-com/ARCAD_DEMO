@@ -11,3 +11,4 @@
                           *PORTRAIT) FONT(*COURIER 11) +
                           BOOKMARK(*NONE)
              wrksplf
+             dspmsg
