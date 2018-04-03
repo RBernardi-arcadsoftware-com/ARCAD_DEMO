@@ -6,3 +6,4 @@
              CHGVAR     VAR(&PATH) VALUE(&PATH *TCAT '*')
              WRKLNK     OBJ(&PATH)
              wrksplf
+             dspmsg
