@@ -7,3 +7,4 @@
              WRKLNK     OBJ(&PATH)
              wrksplf
              dspmsg
+             wrksplf
