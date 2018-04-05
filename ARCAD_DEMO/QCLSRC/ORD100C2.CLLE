@@ -8,3 +8,4 @@
              CALL       PGM(ORD100)
              wrksplf
              dspmsg
+             /* added comment */
