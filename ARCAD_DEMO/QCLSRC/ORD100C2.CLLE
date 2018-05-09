@@ -6,7 +6,7 @@
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CALL       PGM(ORD100)
-             wrksplf
+
              dspmsg
-             /* added comment */
              wrksplf
+             /* featur 1 main branch */
