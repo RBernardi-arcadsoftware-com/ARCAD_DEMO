@@ -35,3 +35,4 @@
                                             COLHDG('LAST' 'MODIF.' 'BY')
                   ARDEL     R               REFFLD(DLCODE)
                   ARFLAG    R               REFFLD(DLCODE)
+                  ARFLG1    R               REFFLD(DLCODE)
