@@ -6,5 +6,8 @@
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CALL       PGM(ORD100)
-             endpgm
-             /* customization 2*/
+
+
+             dspmsg
+             wrksplf
+             /* featur 1 main branch */
