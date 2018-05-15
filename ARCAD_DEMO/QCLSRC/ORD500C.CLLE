@@ -13,8 +13,5 @@
              wrksplf
              dspmsg
 
-             dspmsg
-             dspmsg
-             /* feature A main branch */
+             /* Feature A    */
              endpgm
-
