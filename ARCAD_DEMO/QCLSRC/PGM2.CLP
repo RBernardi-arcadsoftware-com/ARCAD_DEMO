@@ -1,3 +1,2 @@
              PGM
-             /* master changes */
              ENDPGM
