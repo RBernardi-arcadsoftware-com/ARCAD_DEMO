@@ -7,6 +7,5 @@
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CALL       PGM(ORD100)
 
-             dspmsg
-             wrksplf
-             /* featur 1 main branch */
+            /*        Feature A        */
+             endpgm
