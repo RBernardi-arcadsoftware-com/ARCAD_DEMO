@@ -6,5 +6,5 @@
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CALL       PGM(ORD100)
-             */         Feature A */
+             */         Feature A   */
              endpgm

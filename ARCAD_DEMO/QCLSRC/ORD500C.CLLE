@@ -12,5 +12,5 @@
                           BOOKMARK(*NONE)
              wrksplf
              dspmsg
-             /* Feature A */
+             /* Feature A    */
              endpgm
