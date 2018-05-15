@@ -1,2 +1,2 @@
-000100180515             PGM
-000101180515             ENDPGM
+             PGM
+            ENDPGM
