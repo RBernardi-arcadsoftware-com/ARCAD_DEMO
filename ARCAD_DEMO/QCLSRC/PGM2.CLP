@@ -1,3 +1,2 @@
              PGM
-             /* Master */
              ENDPGM
