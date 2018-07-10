@@ -10,6 +10,6 @@
              CRTORD     CUID(&CUID)
              wrksplf
 
-             /* customization 1a   */
+             /* customization 1abx */
              wrksplf
              endpgm
