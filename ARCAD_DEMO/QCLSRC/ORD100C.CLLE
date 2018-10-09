@@ -11,6 +11,4 @@
              wrksplf
              dspmsg
              wrksplf
-             /* customization 1ab 1 */
-             wrksplf
              endpgm
