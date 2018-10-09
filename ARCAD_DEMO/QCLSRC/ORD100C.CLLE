@@ -7,5 +7,6 @@
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              dspmsg
+             wrksplf
              CRTORD     CUID(&CUID)
              endpgm

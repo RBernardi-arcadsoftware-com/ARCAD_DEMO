@@ -12,4 +12,5 @@
                           BOOKMARK(*NONE)
              wrksplf
              dspmsg
+             wrksplf
              endpgm
