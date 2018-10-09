@@ -10,6 +10,5 @@
              CRTORD     CUID(&CUID)
              wrksplf
              dspmsg
-             /* customization 1ab 1 */
              wrksplf
              endpgm
