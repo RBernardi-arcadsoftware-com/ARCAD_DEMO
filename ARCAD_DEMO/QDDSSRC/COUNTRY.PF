@@ -1,5 +1,6 @@
                                             UNIQUE
                                             REF(SAMREF)
+
                 R FCOUN
                   COID      R
                   COUNTR    R
