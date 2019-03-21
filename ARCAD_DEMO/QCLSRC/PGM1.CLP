@@ -4,5 +4,6 @@
              dspmsg
              wrksplf
              dspmsg
+             wrksplf
              ENDPGM
 
