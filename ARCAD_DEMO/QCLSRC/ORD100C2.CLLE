@@ -7,4 +7,5 @@
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CALL       PGM(ORD100)
              wrksplf
+             dspmsg
              endpgm
